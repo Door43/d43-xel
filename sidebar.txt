@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xel:home|Door43 (xel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xel|d43-xel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xel/archive/master.zip|d43-xel.zip]]
+
+**Recent Changes**
+{{changes>ns = xel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xel|Ethnologue data]]
+
